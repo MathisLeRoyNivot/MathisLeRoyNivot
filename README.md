@@ -1,6 +1,6 @@
 ## Hi there my name's Mathis 👋🏼
 
-> I'm a third year student of bachelor in computer science
+> I'm a student in Master degree in Data Science
 
 [![HitCount](http://hits.dwyl.com/MathisLeRoyNivot/MathisLeRoyNivot.svg)](http://hits.dwyl.com/MathisLeRoyNivot/MathisLeRoyNivot)
 
