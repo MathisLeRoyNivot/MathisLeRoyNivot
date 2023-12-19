@@ -8,10 +8,10 @@
   
 <img alt="MathisLeRoyNivot's Github Trophy" src="https://github-profile-trophy.vercel.app/?username=MathisLeRoyNivot&row=1" />
 
-<img alt="Mathis Le Roy-Nivot's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MathisLeRoyNivot&bg_color=30,000046,1CB5E0&title_color=fff&text_color=fff&show_icons=true&hide_border=true" />
-  
-</br>
+![MathisLeRoyNivot's Stats](https://github-readme-stats.vercel.app/api?username=MathisLeRoyNivot&theme=default&show_icons=true&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathisLeRoyNivot&layout=compact)
+![MathisLeRoyNivot's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MathisLeRoyNivot&theme=default&hide_border=true)
+
+![MathisLeRoyNivot's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MathisLeRoyNivot&theme=default&show_icons=true&hide_border=true&layout=compact)
 
 </div>
