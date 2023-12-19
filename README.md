@@ -1,6 +1,6 @@
 ## Hi there my name's Mathis 👋🏼
 
-> I'm a student in Master degree in Data Science
+> I'm a Sofware Engineer
 
 [![HitCount](http://hits.dwyl.com/MathisLeRoyNivot/MathisLeRoyNivot.svg)](http://hits.dwyl.com/MathisLeRoyNivot/MathisLeRoyNivot)
 
